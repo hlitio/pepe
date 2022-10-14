@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.contenedor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(34, 205, 248);
+}
+.cabecera{
+  width: 50%;
+  height: 40%;
+  background-color: rgb(124, 171, 241);
+  padding: 10px;
+}
